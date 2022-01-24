@@ -1,0 +1,12 @@
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/bin/Debug/net5.0/MessageContracts.deps.json
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/bin/Debug/net5.0/MessageContracts.dll
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/bin/Debug/net5.0/ref/MessageContracts.dll
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/bin/Debug/net5.0/MessageContracts.pdb
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/obj/Debug/net5.0/MessageContracts.csprojAssemblyReference.cache
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/obj/Debug/net5.0/MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/obj/Debug/net5.0/MessageContracts.AssemblyInfoInputs.cache
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/obj/Debug/net5.0/MessageContracts.AssemblyInfo.cs
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/obj/Debug/net5.0/MessageContracts.csproj.CoreCompileInputs.cache
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/obj/Debug/net5.0/MessageContracts.dll
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/obj/Debug/net5.0/ref/MessageContracts.dll
+/Users/burakneis/Desktop/MassTransitRabbitMQExample/MessageContracts/obj/Debug/net5.0/MessageContracts.pdb
