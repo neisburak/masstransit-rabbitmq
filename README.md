@@ -1,3 +1,3 @@
 # Masstransit RabbitMQ Messaging
-(https://burakneis.com/masstransit-rabbitmq-messaging/)
+https://burakneis.com/masstransit-rabbitmq-messaging
 
